@@ -18,6 +18,6 @@ In this project, I analyzed historical stock price and revenue data for two comp
 The project is organized into the following directories and files:
 
 - `notebooks/`: Contains Jupyter notebooks used for data analysis and visualization.
-    - `FinalAssignment.ipynb`: Analysis of Tesla's and  GameStop's historical data.
+- `FinalAssignment.ipynb`: Analysis of Tesla's and  GameStop's historical data.
 - `README.md`: This file, providing an overview of the project.
 
